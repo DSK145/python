@@ -1,1 +1,5 @@
-fot
+a = 4
+s = "A"
+Fask = [a,s]
+for x in Fask:
+print(x)
