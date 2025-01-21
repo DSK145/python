@@ -1,6 +1,6 @@
-a = 4
+a = 4  #定义a=什么
 s = "A"
-Fask = [a,s]
-for x in Fask:
-print(x) 
+Fask = [a,s,"a","s"]   #列表输出
+for x in Fask:   #for循环X给列表每个项。
+print(x) #输出x值
 先自己看看懂了,就运行下方1文件。
