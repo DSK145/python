@@ -2,4 +2,5 @@ a = 4
 s = "A"
 Fask = [a,s]
 for x in Fask:
-print(x)
+print(x) 
+先自己看看懂了,就运行下方1文件。
